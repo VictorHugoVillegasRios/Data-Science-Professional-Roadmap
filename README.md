@@ -34,3 +34,58 @@ Este repositorio sirve como:
 ├─ 04_Visualizacion_y_BI
 └─ README.md
 
+2️⃣ 02_Herramientas_Esenciales
+Sección organizada por ruta profesional:
+
+🔹 Para Análisis de Datos
+
+🔹 Para Ciencia de Datos
+
+🔹 Para Machine Learning
+
+Incluye herramientas fundamentales para cada disciplina:
+
+📊 Análisis de Datos
+
+🧠 Ciencia de Datos
+
+🤖 Machine Learning
+
+3️⃣ 03_Datasets_y_Plataformas
+Listado curado de plataformas reconocidas para obtener datasets reales.
+Ejemplos:
+
+🌍 Our World in Data
+
+📊 Kaggle
+
+🐝 GBIF
+
+🚀 NASA Earth Data
+
+4️⃣ 04_Visualizacion_y_BI
+La visualización es una etapa clave del pipeline de datos.
+Esta sección cubre:
+
+📈 Power BI
+
+📊 Tableau
+
+🐍 Visualización con Python
+
+🎯 Storytelling y KPIs
+
+🔄 Flujo Completo del Roadmap
+Datos → Limpieza → Análisis → Modelado → Visualización → Toma de decisiones
+
+Nota: No todos los proyectos requieren Machine Learning, pero todos requieren estructura y claridad.
+
+🧑‍💻 Sobre el Autor
+Víctor Hugo Villegas Ríos  
+Consultor Freelance en Análisis y Ciencia de Datos, especializado en Power BI.
+
+🔗 LinkedIn
+
+⭐ Licencia
+Este repositorio puede utilizarse como recurso educativo y profesional.
+Licencia: MIT
