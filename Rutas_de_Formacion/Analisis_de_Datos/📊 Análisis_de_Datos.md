@@ -101,13 +101,34 @@ Construcción de pipelines de datos - Diseño de reportes ejecutivos - Análisis
 🔗 Enlace oficial:
 https://www.coursera.org/professional-certificates/google-business-intelligence
 
-🧭 ¿Cómo elegir el programa adecuado?
-Perfil	Recomendación
-Principiante absoluto	Google Data Analytics
-Perfil técnico inicial	IBM Data Analyst
-Interesado en BI corporativo	Microsoft PL-300
-Interesado en SQL y análisis práctico	Meta Data Analyst
-Orientado a Business Intelligence	Google BI
+# 🧭 ¿Cómo elegir el programa adecuado?
+
+La siguiente tabla resume las principales rutas de formación en **Análisis de Datos**, según el perfil del estudiante:
+
+| Perfil                   | Recomendación                          |
+|---------------------------|----------------------------------------|
+| Principiante absoluto     | [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) |
+| Perfil técnico inicial    | [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst) |
+| Interesado en BI corporativo | [Microsoft PL-300](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/) |
+| Interesado en SQL y análisis práctico | [Meta Data Analyst](https://www.coursera.org/professional-certificates/meta-data-analyst) |
+| Orientado a Business Intelligence | [Google BI](https://www.coursera.org/professional-certificates/google-business-intelligence) |
+
+---
+
+## 📌 Nota Estratégica
+
+Todos estos programas:
+
+✔ Son reconocidos internacionalmente  
+✔ Están orientados al mercado laboral  
+✔ Incluyen proyectos prácticos  
+✔ Permiten construir portafolio  
+
+El **Análisis de Datos** es la base antes de avanzar hacia:
+
+- Ciencia de Datos  
+- Machine Learning  
+- Modelado Predictivo  
 
 📌 Nota Estratégica
 
@@ -125,4 +146,5 @@ Ciencia de Datos
 Machine Learning
 
 Modelado Predictivo
+
 
