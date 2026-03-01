@@ -12,6 +12,7 @@ Orientadas al mercado laboral
 
 Con herramientas actuales (SQL, Excel, Python, BI)
 
+
 🥇 1. Google Data Analytics Professional Certificate
 
 Institución: Google
@@ -23,27 +24,9 @@ Duración estimada: 4 a 6 meses
 
 Programa orientado a personas que desean ingresar al mundo del análisis de datos desde cero.
 
-🛠 Herramientas que enseña
-
-Excel / Hojas de cálculo
-
-SQL
-
-R
-
-Tableau
-
 🎯 Competencias desarrolladas
 
-Limpieza y transformación de datos
-
-Análisis exploratorio
-
-Visualización
-
-Storytelling con datos
-
-Pensamiento analítico
+Limpieza y transformación de datos - Análisis exploratorio - Visualización - Storytelling con datos - Pensamiento analítico
 
 🔗 Enlace oficial:
 https://www.coursera.org/professional-certificates/google-data-analytics
@@ -59,25 +42,10 @@ Duración estimada: 4 a 6 meses
 
 Programa técnico con fuerte orientación en herramientas y bases de datos.
 
-🛠 Herramientas que enseña
-
-Excel
-
-SQL
-
-Python
-
-IBM Cognos Analytics
 
 🎯 Competencias desarrolladas
 
-Análisis descriptivo
-
-Visualización
-
-Manejo de bases de datos
-
-Creación de dashboards
+Análisis descriptivo - Visualización - Manejo de bases de datos - Creación de dashboards
 
 🔗 Enlace oficial:
 https://www.coursera.org/professional-certificates/ibm-data-analyst
@@ -92,25 +60,9 @@ Nivel: Intermedio
 
 Certificación especializada en Power BI y modelado de datos empresarial.
 
-🛠 Herramientas que enseña
-
-Power BI
-
-Modelado de datos
-
-DAX
-
-Power Query
-
 🎯 Competencias desarrolladas
 
-Diseño de dashboards empresariales
-
-Modelado relacional
-
-Creación de KPIs
-
-Reportes ejecutivos
+Diseño de dashboards empresariales - Modelado relacional - Creación de KPIs
 
 🔗 Enlace oficial:
 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/
@@ -125,23 +77,9 @@ Nivel: Inicial – Intermedio
 
 Programa moderno con énfasis en SQL y visualización.
 
-🛠 Herramientas que enseña
-
-SQL
-
-Python
-
-Tableau
-
-Estadística básica
-
 🎯 Competencias desarrolladas
 
-Consultas avanzadas en SQL
-
-Análisis exploratorio
-
-Visualización profesional
+Consultas avanzadas en SQL - Análisis exploratorio - Visualización profesional
 
 🔗 Enlace oficial:
 https://www.coursera.org/professional-certificates/meta-data-analyst
@@ -156,23 +94,9 @@ Nivel: Intermedio
 
 Especialización en BI y modelado de datos.
 
-🛠 Herramientas que enseña
-
-SQL avanzado
-
-Modelado de datos
-
-Tableau
-
-Diseño de dashboards
-
 🎯 Competencias desarrolladas
 
-Construcción de pipelines de datos
-
-Diseño de reportes ejecutivos
-
-Análisis estratégico
+Construcción de pipelines de datos - Diseño de reportes ejecutivos - Análisis estratégico
 
 🔗 Enlace oficial:
 https://www.coursera.org/professional-certificates/google-business-intelligence
@@ -184,6 +108,7 @@ Perfil técnico inicial	IBM Data Analyst
 Interesado en BI corporativo	Microsoft PL-300
 Interesado en SQL y análisis práctico	Meta Data Analyst
 Orientado a Business Intelligence	Google BI
+
 📌 Nota Estratégica
 
 Todos estos programas:
@@ -200,3 +125,4 @@ Ciencia de Datos
 Machine Learning
 
 Modelado Predictivo
+
