@@ -107,6 +107,11 @@ Datos → Limpieza → Análisis → Modelado → Visualización → Toma de dec
 
 No todos los proyectos requieren Machine Learning, pero todos requieren estructura y claridad.
 
+🧑‍💻 Sobre el Autor
+Víctor Hugo Villegas Ríos Consultor Freelance en Análisis y Ciencia de Datos, especializado en Power BI.
+
+LinkedIn: https://www.linkedin.com/in/victorhugovillegasrios/
+
 
 ⭐ Licencia
 
