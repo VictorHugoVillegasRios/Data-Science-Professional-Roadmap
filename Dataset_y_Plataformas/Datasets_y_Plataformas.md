@@ -1,4 +1,4 @@
-# 📂 03 – Datasets y Plataformas de Práctica
+# 📂 Datasets y Plataformas de Práctica
 
 Esta sección reúne las principales plataformas donde encontrar:
 
@@ -134,3 +134,4 @@ Cuando elijas un dataset:
 6️⃣ Lleva el resultado a Power BI o Tableau  
 
 👉 Esto convierte el dataset en un **proyecto de portafolio**.
+
