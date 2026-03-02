@@ -1,156 +1,136 @@
-📂 03 – Datasets y Plataformas de Práctica
+# 📂 03 – Datasets y Plataformas de Práctica
 
 Esta sección reúne las principales plataformas donde encontrar:
 
-📊 Datasets reales
+- 📊 **Datasets reales**  
+- 🧠 **Proyectos prácticos**  
+- 🏆 **Competencias**  
+- 📈 **Casos aplicables a Power BI y Machine Learning**
 
-🧠 Proyectos prácticos
+---
 
-🏆 Competencias
+## 🥇 Kaggle
+Plataforma líder mundial en datasets y competencias de Data Science.  
 
-📈 Casos aplicables a Power BI y Machine Learning
+✔ Miles de datasets públicos  
+✔ Competencias reales  
+✔ Notebooks compartidos  
+✔ Comunidad activa  
 
-🥇 1. Kaggle
+**Ideal para:**  
+- Análisis exploratorio  
+- Modelos predictivos  
+- Proyectos de portafolio  
+- Exportar datasets a Power BI  
 
-Plataforma líder mundial en datasets y competencias de Data Science.
+🔗 [Sitio oficial](https://www.kaggle.com/)
 
-✔ Miles de datasets públicos
-✔ Competencias reales
-✔ Notebooks compartidos
-✔ Comunidad activa
+---
 
-Ideal para:
+## 🥈 UCI Machine Learning Repository
+Repositorio académico histórico de datasets para investigación.  
 
-Análisis exploratorio
+✔ Datasets clásicos  
+✔ Ideal para practicar algoritmos  
+✔ Muy usado en papers científicos  
 
-Modelos predictivos
+**Ideal para:**  
+- Clasificación  
+- Regresión  
+- Clustering  
+- Práctica de modelos supervisados  
 
-Proyectos de portafolio
+🔗 [Sitio oficial](https://archive.ics.uci.edu/)
 
-Exportar datasets a Power BI
+---
 
-🔗 Sitio oficial:
-https://www.kaggle.com/
+## 🥉 Google Dataset Search
+Buscador especializado de datasets públicos.  
 
-🥈 2. UCI Machine Learning Repository
+✔ Datos gubernamentales  
+✔ Datos científicos  
+✔ Datos ambientales  
+✔ Datos económicos  
 
-Repositorio académico histórico de datasets para investigación.
+**Ideal para encontrar datos abiertos en:**  
+- Medio ambiente  
+- Recursos naturales  
+- Economía  
+- Salud  
 
-✔ Dataset clásicos
-✔ Ideal para practicar algoritmos
-✔ Muy usado en papers científicos
+🔗 [Sitio oficial](https://datasetsearch.research.google.com/)
 
-Ideal para:
+---
 
-Clasificación
+## 🏛 Data.gov
+Portal oficial de datos abiertos del gobierno de EE.UU.  
 
-Regresión
+✔ Datos ambientales  
+✔ Energía  
+✔ Cambio climático  
+✔ Transporte  
+✔ Economía  
 
-Clustering
+**Muy útil para proyectos de análisis público.**  
 
-Práctica de modelos supervisados
+🔗 [Sitio oficial](https://www.data.gov/)
 
-🔗 Sitio oficial:
-https://archive.ics.uci.edu/
+---
 
-🥉 3. Google Dataset Search
+## 🌍 World Bank Open Data
+Datos globales económicos y sociales.  
 
-Buscador especializado de datasets públicos.
+✔ Indicadores de desarrollo  
+✔ Datos ambientales  
+✔ Energía  
+✔ Pobreza  
+✔ Sostenibilidad  
 
-✔ Datos gubernamentales
-✔ Datos científicos
-✔ Datos ambientales
-✔ Datos económicos
+**Ideal para proyectos de análisis global y dashboards comparativos.**  
 
-Ideal para encontrar datos abiertos en:
+🔗 [Sitio oficial](https://data.worldbank.org/)
 
-Medio ambiente
+---
 
-Recursos naturales
+## 🌱 FAO Data (Agricultura y Recursos Naturales)
+Datos globales sobre agricultura y alimentación.  
 
-Economía
+✔ Producción agrícola  
+✔ Uso de suelo  
+✔ Recursos naturales  
+✔ Seguridad alimentaria  
 
-Salud
+**Ideal para proyectos ambientales.**  
 
-🔗 Sitio oficial:
-https://datasetsearch.research.google.com/
+🔗 [Sitio oficial](https://www.fao.org/faostat/)
 
-🏛 4. Data.gov
+---
 
-Portal oficial de datos abiertos del gobierno de EE.UU.
+## 📌 Uso Estratégico de las Plataformas
 
-✔ Datos ambientales
-✔ Energía
-✔ Cambio climático
-✔ Transporte
-✔ Economía
+### Para Análisis de Datos
+- Kaggle  
+- Data.gov  
+- World Bank  
 
-Muy útil para proyectos de análisis público.
+### Para Machine Learning
+- UCI Repository  
+- Kaggle  
 
-🔗 Sitio oficial:
-https://www.data.gov/
+### Para proyectos ambientales
+- FAO  
+- World Bank  
+- Data.gov  
 
-🌍 5. World Bank Open Data
+---
 
-Datos globales económicos y sociales.
+## 🧠 Sugerencia Profesional
+Cuando elijas un dataset:  
+1️⃣ Analiza su estructura  
+2️⃣ Limpia los datos  
+3️⃣ Haz análisis exploratorio  
+4️⃣ Construye visualizaciones  
+5️⃣ Si aplica, crea modelo predictivo  
+6️⃣ Lleva el resultado a Power BI o Tableau  
 
-✔ Indicadores de desarrollo
-✔ Datos ambientales
-✔ Energía
-✔ Pobreza
-✔ Sostenibilidad
-
-Ideal para proyectos de análisis global y dashboards comparativos.
-
-🔗 Sitio oficial:
-https://data.worldbank.org/
-
-🌱 6. FAO Data (Agricultura y Recursos Naturales)
-
-Datos globales sobre agricultura y alimentación.
-
-✔ Producción agrícola
-✔ Uso de suelo
-✔ Recursos naturales
-✔ Seguridad alimentaria
-
-Ideal para proyectos ambientales.
-
-🔗 Sitio oficial:
-https://www.fao.org/faostat/
-
-📌 ¿Cómo usar estas plataformas estratégicamente?
-Para Análisis de Datos:
-
-Kaggle
-
-Data.gov
-
-World Bank
-
-Para Machine Learning:
-
-UCI Repository
-
-Kaggle
-
-Para proyectos ambientales:
-
-FAO
-
-World Bank
-
-Data.gov
-
-🧠 Sugerencia Profesional
-
-Cuando elijas un dataset:
-
-1️⃣ Analiza su estructura
-2️⃣ Limpia los datos
-3️⃣ Haz análisis exploratorio
-4️⃣ Construye visualizaciones
-5️⃣ Si aplica, crea modelo predictivo
-6️⃣ Lleva el resultado a Power BI o Tableau
-
-Esto convierte el dataset en proyecto de portafolio.
+👉 Esto convierte el dataset en un **proyecto de portafolio**.
