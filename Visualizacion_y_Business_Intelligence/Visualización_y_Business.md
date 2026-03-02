@@ -1,4 +1,4 @@
-# 📊 04 – Visualización y Business Intelligence (BI)
+# 📊 Visualización y Business Intelligence (BI)
 
 La visualización es la etapa final del pipeline de datos:
 
@@ -134,3 +134,4 @@ Con esto queda completa la estructura principal del repositorio:
 2️⃣ Herramientas Esenciales  
 3️⃣ Datasets y Plataformas  
 4️⃣ Visualización y BI
+
