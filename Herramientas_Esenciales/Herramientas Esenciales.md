@@ -1,4 +1,4 @@
-# 🛠 02 – Herramientas Esenciales
+# 🛠 Herramientas Esenciales
 
 Esta sección reúne las herramientas fundamentales utilizadas en:
 
@@ -114,3 +114,4 @@ Ruta recomendada:
 3️⃣ Visualización  
 4️⃣ Machine Learning básico  
 5️⃣ Power BI / Tableau
+
