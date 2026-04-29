@@ -123,7 +123,7 @@ Especialización en:
 * 🌱 Aplicaciones en medio ambiente y recursos naturales
 
 🔗 LinkedIn:
-*(coloca aquí tu enlace)*
+*https://www.linkedin.com/in/victorhugovillegasrios/
 
 ---
 
