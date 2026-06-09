@@ -1,5 +1,7 @@
 # 📘 Data Science Professional Roadmap 🚀
 
+![Data-Science-Professional-Roadmap](assets/heroRoadmap.png)
+
 Repositorio estructurado como un roadmap profesional en **Data Science, Análisis de Datos y Machine Learning**, diseñado para guiar el desarrollo de habilidades desde un enfoque práctico y estratégico.
 
 Este espacio funciona como un hub curado que organiza herramientas, recursos y rutas de aprendizaje dentro del ecosistema Data.
